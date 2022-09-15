@@ -19,7 +19,7 @@ The request from a client was to present a table organizing UFO data stored as a
 
 The front page of the website collating the data of UFOs sightings is displayed below:
 
-INSERT IMAGE OF LANDING PAGE 
+![](https://github.com/jbowman86/UFOs/blob/main/static/images/UFO_Sighting_Landing_Page.png)
 
 ### How the filters appear when first landing on the page:
 
@@ -33,7 +33,7 @@ The filters used to organize UFOs sighting data include filters for the followin
 
 An image of the website filters prior to inputting search criteria can be seen below:
 
-INSERT IMAGE OF FILTERS PRIOR TO INPUT OF SEARCH CRITERIA
+![](https://github.com/jbowman86/UFOs/blob/main/static/images/UFO_filters_default.png)
 
 ### How the filters appear after being used: 
 
