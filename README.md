@@ -41,31 +41,31 @@ To complete a search, type the search criteria within the provided text box besi
 
 #### Filtering by date
 
-The user enters the desired date (included day, month, and year).  The input is recorded and the table to updated to display the relevant UFO sightings.
+The user enters the desired date (included day, month, and year).  The input is recorded and the table is updated to display the relevant UFO sightings.
 
 ![](https://github.com/jbowman86/UFOs/blob/main/static/images/UFO_filter_date.png)
 
 #### Filtering by city
 
-The user enters the desired city, the input is recorded and the table to updated to display the relevant UFO sightings.
+The user enters the desired city, the input is recorded and the table is updated to display the relevant UFO sightings.
 
 ![](https://github.com/jbowman86/UFOs/blob/main/static/images/UFO_filter_city.png)
 
 #### Filtering by country
 
-The user enters the desired country, the input is recorded and the table to updated to display the relevant UFO sightings.
+The user enters the desired country, the input is recorded and the table is updated to display the relevant UFO sightings.
 
 ![](https://github.com/jbowman86/UFOs/blob/main/static/images/UFO_filter_country.png)
 
 #### Filtering by state
 
-The user enters the desired state, the input is recorded and the table to updated to display the relevant UFO sightings.
+The user enters the desired state, the input is recorded and the table is updated to display the relevant UFO sightings.
 
 ![](https://github.com/jbowman86/UFOs/blob/main/static/images/UFO_filter_state_shape.png)
 
 #### Filtering by shape
 
-The user enters the desired UFO shape, the input is recorded and the table to updated to display the relevant UFO sightings.
+The user enters the desired UFO shape, the input is recorded and the table is updated to display the relevant UFO sightings.
 
 ![](https://github.com/jbowman86/UFOs/blob/main/static/images/UFO_filter_state_shape.png)
 
