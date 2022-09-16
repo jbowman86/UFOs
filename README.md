@@ -78,4 +78,4 @@ Although the UFO sighting website is effective in displaying the filtered result
 ### Recommendations: 
 
 1.	The next addition to the filters should be to add a trim function to catch spaces at the end of words as well as allow for upper and lower cases.
-2.	Inclusion of a drop-down lists for each filter criteria instead of input text boxes would allow the website users to search for UFO sightings without having the remember to case specific terms.  These lists would update after the selection of each filter parameter is selected.
+2.	Inclusion of a drop-down list for each filter criteria instead of input text boxes would allow the website users to search for UFO sightings without having the remember to case specific terms.  These lists could then be used to update the search findings after the selection of each filter parameter is completed.
