@@ -37,7 +37,7 @@ An image of the website filters prior to inputting search criteria can be seen b
 
 ### How the filters appear after being used: 
 
-To complete a search, type the search criteria within the provided text box beside each filter option.  It is noted that search terms need to be typed in lower case letters and without spaces at the end of the search.  This is due to the case sensitive nature of the search criteria within the website’s filters.  Searches are completed by pressing “Enter” or clicking off the text boxes. Furthermore, searches can be completed using all or some of the filters.  It is not necessary to provide inputs for all filter txt boxes in order for a search to completed.  Search filter criteria can be reset by clicking the UFO Sightings text at the top left of the website.  Searches completed by filter criteria are included below:
+To complete a search, type the search criteria within the provided text box beside each filter option.  It is noted that search terms need to be typed in lower case letters and without spaces at the end of the search.  This is due to the case sensitive nature of the search criteria within the website’s filters.  Searches are completed by pressing “Enter” or clicking off the text boxes. Furthermore, searches can be completed using all or some of the filters.  It is not necessary to provide inputs for all filter text boxes in order for a search to be completed.  Search filter criteria can be reset by clicking the UFO Sightings text at the top left of the website.  Searches completed by filter criteria are included below:
 
 #### Filtering by date
 
