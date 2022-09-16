@@ -71,9 +71,9 @@ The user enters the desired UFO shape, the input is recorded and the table is up
 
 ## Summary: 
 
-### Drawback:
+### Drawbacks:
 
-Although the UFOV sighting website is effective in displaying the filtered results, there are some drawbacks to the way the website currently functions.  In order the complete accurate searches, the user must know specific dates, cities, or shapes to search.  Additionally, some shapes like "light" might not be as intuitive and unless the user knows this specific term for classifying UFO sightings, they may not get all the desired results.  Furthermore, The filters require correct lower-case spellings and cannot include spaces at the end.  The city that was used, for example, could not be typed as "elcajon", “el cajon_”, or "El Cajon".  The only accepted input would be "el cajon".
+Although the UFO sighting website is effective in displaying the filtered results, there are some drawbacks to the way the website currently functions.  In order the complete accurate searches, the user must know specific dates, cities, or shapes to search.  Additionally, some shapes like "light" might not be as intuitive and unless the user knows this specific term for classifying UFO sightings, they may not get all the desired results.  Furthermore, The filters require correct lower-case spellings and cannot include spaces at the end.  The city that was used, for example, could not be typed as "elcajon", “el cajon_”, or "El Cajon".  The only accepted input would be "el cajon".
 
 ### Recommendations: 
 
